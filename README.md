@@ -70,8 +70,8 @@ Group name:Sandboxนะจ๊ะ
     * Accuracy, Error Rate, Sensitivity And Specificity
 * [การบ้าน](https://github.com/kittimaxz/DWDM21/blob/main/HW14.pdf)
 * [Neural Network for Classification](https://github.com/kittimaxz/DWDM21/blob/main/Neural-Network.pdf)  
- * Perceptron
- * ตัวอย่างการเรียนรู้ฟังก์ชัน AND และ XOR ด้วยกฎเรียนรู้เพอร์เซปตรอน
+  * Perceptron
+  * ตัวอย่างการเรียนรู้ฟังก์ชัน AND และ XOR ด้วยกฎเรียนรู้เพอร์เซปตรอน
     
 **Chapter 8 :**[Clustering](https://github.com/kittimaxz/DWDM21/blob/main/K-MEANS.pdf)
  * Basic concepts
@@ -151,15 +151,15 @@ Group name:Sandboxนะจ๊ะ
     * Handling Missing Value 1 (ลบค่า Missing ออกไป)
   * Quiz
     * เฉลย
-  * Handling Missing Value 1.5 (ลบค่า Missing เฉพาะใน Column ที่เราสนใจ) 
+   * Handling Missing Value 1.5 (ลบค่า Missing เฉพาะใน Column ที่เราสนใจ) 
   * Quiz
-  * Handling Missing Value 2 (แทนด้วย Class ใหม่ (Unknow))
-  * Handling Missing Value 3 (แทนด้วย Class ใหม่ (ค่าที่เหมาะสม))
-  * Handling Missing Value 4 (แทนด้วย ค่ากลาง)
+   * Handling Missing Value 2 (แทนด้วย Class ใหม่ (Unknow))
+   * Handling Missing Value 3 (แทนด้วย Class ใหม่ (ค่าที่เหมาะสม))
+   * Handling Missing Value 4 (แทนด้วย ค่ากลาง)
     * ถ้าเป็น Numeric ใช้ Mean
     * ถ้าเป็น Norminal (ตัวหนังสือ) จะใช้เป็น Mode(ฐานนิยม)
     * ถ้าเป็น Ordinal ใช้เป็น Median
-  * Handling Missing Value 5 (แทนด้วย ค่ากลางของ Samples ใน Class เดียวกัน)
+   * Handling Missing Value 5 (แทนด้วย ค่ากลางของ Samples ใน Class เดียวกัน)
     * สร้าง List ของ Boolean
     * นำ List ของ Boolean มาเลือกค่าในตาราง
   * Select Data By Values[PD]
@@ -167,7 +167,7 @@ Group name:Sandboxนะจ๊ะ
     * เราใช้ & (And) และ | (Or) ในการรวม List ของ Boolean
   * Quiz+HW
   * ต่อตารางแนวแกน Y [PD]
-    * Handling Missing Value 5 (แทนด้วย ค่ากลางของ Samples ใน Class เดียวกัน)(ต่อ)
+   * Handling Missing Value 5 (แทนด้วย ค่ากลางของ Samples ใน Class เดียวกัน)(ต่อ)
     * การเรียงข้อมูล [PD]
   * Outlier
     * สิ่งที่ Datadict (Curly Brackets) บอก
